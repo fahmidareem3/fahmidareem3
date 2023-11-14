@@ -4,7 +4,7 @@
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F760A0&width=435&lines=Hey%2C+I'm+Fahmida" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F760A0&width=435&lines=Hey%2C+I'm+Fahmida Ara" alt="Typing SVG" /></a>
 <br>
 I specialize in designing and optimizing complex databases and REST APIs.
 
