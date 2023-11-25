@@ -4,7 +4,7 @@
 
 ---
 
-<p style="font-size: 24px; color: #FF6E96; font-weight: bold;">Hey I'm Fahmida Ara</p>
+## Hey I'm Fahmida Ara
 <br>
 I specialize in designing and optimizing complex databases and REST APIs.
 
