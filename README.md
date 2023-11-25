@@ -4,7 +4,7 @@
 
 ---
 
-## Hey I'm Fahmida Ara
+## Hey, I'm Fahmida Ara
 <br>
 I specialize in designing and optimizing complex databases and REST APIs.
 
